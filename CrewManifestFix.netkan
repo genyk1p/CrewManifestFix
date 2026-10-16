@@ -8,6 +8,7 @@
     "$kref": "#/ckan/github/genyk1p/CrewManifestFix",
     "$vref": "#/ckan/ksp-avc",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231954-*",
         "repository": "https://github.com/genyk1p/CrewManifestFix",
         "bugtracker": "https://github.com/genyk1p/CrewManifestFix/issues"
     },

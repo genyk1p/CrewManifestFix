@@ -2,6 +2,8 @@
 
 Small fixes for [Crew Manifest](https://github.com/linuxgurugamer/CrewManifest) 6.5.1.1.
 
+Forum thread: https://forum.kerbalspaceprogram.com/topic/231954-112x-crew-manifest-fix-020-no-duplicate-toolbar-buttons-a-close-button-no-log-spam/
+
 ## Duplicate toolbar buttons
 
 Reported upstream as [linuxgurugamer/CrewManifest#1](https://github.com/linuxgurugamer/CrewManifest/issues/1).
