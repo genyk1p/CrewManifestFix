@@ -1,0 +1,22 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CrewManifestFix",
+    "name": "Crew Manifest Fix",
+    "abstract": "Crew Manifest 6.5.1.1 fixes: no duplicate toolbar button on every flight load, a close button on the window, no log spam.",
+    "author": "Geny",
+    "license": "MIT",
+    "$kref": "#/ckan/github/genyk1p/CrewManifestFix",
+    "$vref": "#/ckan/ksp-avc",
+    "resources": {
+        "repository": "https://github.com/genyk1p/CrewManifestFix",
+        "bugtracker": "https://github.com/genyk1p/CrewManifestFix/issues"
+    },
+    "tags": [ "plugin", "convenience" ],
+    "depends": [
+        { "name": "CrewManifest", "version": "6.5.1.1" },
+        { "name": "Harmony2", "min_version": "2.2.1.0" }
+    ],
+    "install": [
+        { "find": "CrewManifestFix", "install_to": "GameData" }
+    ]
+}
