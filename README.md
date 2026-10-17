@@ -1,5 +1,7 @@
 # Crew Manifest Fix
 
+> **Obsolete.** All three fixes are in [Crew Manifest 6.5.2](https://github.com/linuxgurugamer/CrewManifest/releases/tag/6.5.2) — thanks to linuxgurugamer for the quick release. Update Crew Manifest (CKAN does it) and delete `GameData/CrewManifestFix`. On 6.5.2 this mod only logs a warning and does nothing. The repository is archived; the text below is kept for history.
+
 Small fixes for [Crew Manifest](https://github.com/linuxgurugamer/CrewManifest) 6.5.1.1.
 
 Forum thread: https://forum.kerbalspaceprogram.com/topic/231954-112x-crew-manifest-fix-020-no-duplicate-toolbar-buttons-a-close-button-no-log-spam/
@@ -62,6 +64,8 @@ MIT, see [LICENSE](LICENSE). Author: Geny. Crew Manifest itself is MIT-licensed 
 ---
 
 ## По-русски
+
+**Мод устарел:** все три исправления вошли в Crew Manifest 6.5.2. Обновите Crew Manifest и удалите `GameData/CrewManifestFix`.
 
 Исправляет баг Crew Manifest 6.5.1.1: при каждой загрузке полёта мод создавал ещё одну свою копию и ещё одну кнопку на тулбаре, а старые не удалялись. Фикс оставляет только первую копию. Кроме того, у окна Crew Manifest появился крестик «×» в правом верхнем углу, а строка «Crewmanifest, vessel: …», которую мод писал в лог каждый кадр, пока окно открыто, больше не пишется. Файлы Crew Manifest не изменяются, поэтому переустановка через CKAN фикс не ломает.
 
